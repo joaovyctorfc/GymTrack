@@ -1,0 +1,5 @@
+{
+  "name": "IronTrack AI",
+  "description": "A smart gym tracker powered by Gemini to log workouts, track progress, and get AI coaching advice.",
+  "requestFramePermissions": []
+}
